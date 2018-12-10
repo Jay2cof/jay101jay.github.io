@@ -1,0 +1,36 @@
+
+
+.grid_header {
+  background-color: Red;
+}
+
+.grid_main {
+  background-image: url('https://us.123rf.com/450wm/ksuksa/ksuksa1501/ksuksa150100051/35631199-cool-urban-border-collie-dog-portrait-on-the-graffiti-background.jpg?ver=6');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.grid_left {
+  background-color: #d64b06;
+}
+
+.grid_right {
+  background-color: #d64b06;
+}
+
+.grid_footer {
+  background-color: ;
+}
+
+.top-bar,
+.top-bar ul,
+.title-bar {
+  background-color: transparent;
+  color: #333;
+}
+
+.top-bar a,
+.top-bar ul a,
+.title-bar a {
+  color: blue;
+}
